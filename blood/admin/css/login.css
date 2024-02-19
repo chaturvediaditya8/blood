@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ab{
+    background:#7fb3d5!important;
+    width: 40%;
+}
+.ab a{
+    text-decoration: none;
+    color: white;
+}
